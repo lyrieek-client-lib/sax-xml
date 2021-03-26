@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"bin": "dist/index.js",
 	"scripts": {
-		"dev": "tsc && node ./dist/index.js",
+		"dev": "tsc && node ./dist/test.js",
 		"build": "tsc"
 	},
 	"devDependencies": {
