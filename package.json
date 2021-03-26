@@ -1,0 +1,14 @@
+{
+	"name": "sax-xml",
+	"version": "0.0.1",
+	"bin": "dist/index.js",
+	"scripts": {
+		"dev": "tsc && node ./dist/index.js",
+		"build": "tsc"
+	},
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^4.15.1",
+		"@typescript-eslint/parser": "^4.15.1",
+		"typescript": "^4.1.5"
+	}
+}
